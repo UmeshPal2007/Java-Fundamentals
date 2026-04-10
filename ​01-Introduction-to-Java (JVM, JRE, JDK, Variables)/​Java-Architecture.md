@@ -172,3 +172,28 @@ Hello World with Java
 from Umesh Pal
 
 📦 Variables in Java
+🔹 Definition
+A variable is a named memory location used to store data that can change during program execution.
+
+🧠 Concept Breakdown
+Label → Variable Name
+Box Size → Data Type
+Stored Content → Value
+
+✅ Example:
+int age = 20;
+🔍 Explanation:
+int → Data Type
+age → Variable Name
+20 → Value
+
+⚠️ Important Note
+Java is a strongly typed programming language, which means:
+👉 You must declare the data type of a variable before using it.
+
+🎯 Summary
+\n is used for line breaks in output
+System.out.print() and println() control output formatting
+Patterns can be printed using multiple print statements
+Variables store data in memory
+Java requires explicit data types for variables
