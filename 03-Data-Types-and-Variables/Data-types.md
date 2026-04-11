@@ -19,3 +19,14 @@ Class
 Object
 Interface
 💡 Translation: These are used for real-world structured data.
+
+💾 Basic Memory Units
+🔸 Bit
+Smallest unit of data
+Stores 0 or 1
+🔸 Byte
+1 Byte = 8 Bits
+Standard unit in computer science
+🔥 Shortcut to remember:
+Bit = single switch
+Byte = 8 switches together
